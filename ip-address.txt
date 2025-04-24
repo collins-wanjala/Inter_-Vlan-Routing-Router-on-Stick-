@@ -1,1 +1,9 @@
 For successful Ip address design scheme,master subnetting
+
+class  A
+0	10.255.255.255/8
+Class B
+126	191.255.255.255 /16
+255.255.0.0
+CLASS C
+192-239 /24
